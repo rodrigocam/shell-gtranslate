@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import argparse
 from api_connections import translate
 
