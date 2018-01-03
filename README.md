@@ -1,7 +1,7 @@
 # shell-gtranslate
 A simple tool to translate any text from command line
 
-## Instalation
+## Installation
 The tool works with python3 and requires the googletrans library
 
 `$ pip install shell-gtranslate`
