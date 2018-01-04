@@ -9,7 +9,7 @@ setup(
 
     version='0.1',
 
-    description='This is a simple translator to use in shell',
+    description='A simple tool to translate any text from command line',
 
     url='https://github.com/rodrigocam/shell-gtranslate',
 
